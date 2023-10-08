@@ -5,18 +5,25 @@ function App() {
   return (
     <div className="bg-blue-500 min-h-screen flex flex-col justify-center items-center text-white">
       {/* En-tête avec les liens */}
-      <div className="text-4xl font-bold mb-8">
-        <a href="#" className="mr-4">
-          Projet
+      <div className=" mb-8">
+        <a
+          href="https://github.com/Osiris8"
+          className="mr-4 hover-link"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Projects
         </a>
-        <a href="#">Contact</a>
+        <a href="mailto:miganosiris8@gmail.com" className="hover-link">
+          Contact
+        </a>
       </div>
       {/* Votre nom au centre */}
-      <h1 className="text-6xl font-bold mb-4">Votre Nom</h1>
+      <h1 className="text-6xl font-bold mb-4">Osiris Migan</h1>
       {/* Paragraphe de description */}
       <p className="text-lg max-w-xl text-center">
-        Enthousiaste du développement web spécialisé dans React, Node.js et
-        MongoDB. Passionné par la création de solutions innovantes et élégantes.
+        Enthusiastic web developer, specializing in React, Node.js, and MongoDB.
+        Passionate about creating innovative and elegant solutions.
       </p>
     </div>
   );

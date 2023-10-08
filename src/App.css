@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+/***************************CSS OF PROJECT**************************/
+/* App.css */
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Styles pour l'arrière-plan */
+.bg-blue-500 {
+  background-color: #3498db; /* Bleu */
+}
+.hover-link:hover {
+  font-weight: 700;
+}
