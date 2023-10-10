@@ -7,7 +7,7 @@ function App() {
       {/* En-tête avec les liens */}
       <div className="mb-8">
         <a
-          href="https://github.com/Osiris8"
+          href="https://github.com/Osiris8?tab=repositories"
           className="mr-4 hover-link"
           target="_blank"
           rel="noreferrer"
