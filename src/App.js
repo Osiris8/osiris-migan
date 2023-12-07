@@ -24,6 +24,16 @@ function App() {
       <p className="text-lg max-w-xl text-center">
         Enthusiastic web developer, specializing in React, Node.js, and MongoDB.
         Passionate about creating innovative and elegant solutions.
+        <br />
+        {/* Ajout du lien en bas du paragraphe */}
+        <a
+          href="https://www.404works.com/fr/profile/osirismigan" // Remplacez ceci par votre lien de freelance
+          className="block text-center mt-4 hover:underline hover:text-white-500"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Find me on 404works
+        </a>
       </p>
     </div>
   );
