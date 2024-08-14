@@ -6,7 +6,7 @@
 
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
-project inspired by https://github.com/dillionverma/portfolio
+Project inspired by [dillionverma](https://github.com/dillionverma/portfolio)
 
 # Features
 
