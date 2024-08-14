@@ -69,7 +69,7 @@ export const DATA = {
       start: "January 2024",
       end: "Today",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Support students by analyzing their needs and adapting teaching methods accordingly. Offer perspectives on the profession of web developer and monitor students' motivation to give their best. Monitor learners' progress and alert them to any delays. Helping students to defend their projects ",
     },
     {
       company: "SeeMarket",
@@ -81,7 +81,7 @@ export const DATA = {
       start: "May 2023",
       end: "Déc 2023",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Develop seemarket's website using Wordpress (https://www.see-markets.com/). Develop the mobile application using React Native",
     },
 
     {
@@ -94,7 +94,7 @@ export const DATA = {
       start: "January 2021",
       end: "Déc 2022",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "Development of showcase site for young entrepreneurs. Responsible for digital technology training for entrepreneurs, business idea holders and students. Advisor on digital tools to use in the workplace. Digital project manager",
     },
   ],
   education: [
