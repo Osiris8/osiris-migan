@@ -83,18 +83,6 @@ export const DATA = {
       description:
         "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
     },
-    {
-      company: "OpenTranscriptAI",
-      href: "https://www.opentranscriptai.com/",
-      badges: [],
-      location: "San Francisco, CA",
-      title: "Software Engineer",
-      logoUrl: "/OP.png",
-      start: "Jan 2023",
-      end: "Apr 2023",
-      description:
-        "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours.",
-    },
 
     {
       company: "SENS",
@@ -116,14 +104,14 @@ export const DATA = {
       href: "https://sigunstim.org/",
       degree: "Bachelor's degree",
       logoUrl: "/unstim.avif",
-      start: "",
+      start: "2014",
       end: "2017",
     },
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
+      title: "OpenTranscriptAI",
+      href: "https://opentranscriptai.com/",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
@@ -141,7 +129,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://www.opentranscriptai.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -181,7 +169,7 @@ export const DATA = {
       image: "",
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
-    {
+    /*  {
       title: "llm.report",
       href: "https://llm.report",
       dates: "April 2023 - September 2023",
@@ -243,8 +231,9 @@ export const DATA = {
       video:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
+    */
   ],
-  hackathons: [
+  /* hackathons: [
     {
       title: "Hack Western 5",
       dates: "November 23rd - 25th, 2018",
@@ -628,5 +617,5 @@ export const DATA = {
         },
       ],
     },
-  ],
+  ],*/
 } as const;
