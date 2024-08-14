@@ -135,7 +135,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://files.edgestore.dev/vgd5z5zx1hzcip0s/publicFiles/_public/8b74840f-dff8-4d5c-bb41-c2eeed77b447.mp4",
     },
     {
       title: "Hiretop",
@@ -166,7 +166,8 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video:
+        "https://files.edgestore.dev/vgd5z5zx1hzcip0s/publicFiles/_public/c1d5b7d1-3a49-4349-a371-1f990d348482.mp4",
     },
   ],
 } as const;
