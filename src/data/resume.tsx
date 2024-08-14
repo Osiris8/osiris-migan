@@ -12,19 +12,7 @@ export const DATA = {
   summary:
     "I develop complex applications and update my knowledge on a daily basis. I like to think about how we can use digital to make businesses more successful. I train entrepreneurs, business ideas and learners in digital technologies. [See my skills](/#education), [my projects](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [contact me](/#hackathons).",
   avatarUrl: "/me.jpg",
-  skills: [
-    "React",
-    "Next.js",
-    "Typescript",
-    "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-    "Java",
-    "C++",
-  ],
+  skills: ["React", "Next.js", "Typescript", "Node.js", "MongoDB", "Supabase"],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
