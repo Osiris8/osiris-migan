@@ -112,7 +112,7 @@ export const DATA = {
     {
       title: "OpenTranscriptAI",
       href: "https://opentranscriptai.com/",
-      dates: "Jan 2024 - March 2024",
+      dates: "January 2024 - March 2024",
       active: true,
       description:
         "[OpentranscriptAI](https://www.opentranscriptai.com/) is an online platform that allows you to easily convert audio or video files into text. Our transcription service uses advanced technology to provide fast, accurate transcriptions, enabling you to make the most of your audiovisual content.",
@@ -138,21 +138,20 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "Hiretop",
+      href: "https://hiretop-iota.vercel.app",
+      dates: "June 2024 - September 2024",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Connecting talent to opportunity. Find your next career opportunity. Stand out from the crowd and boost your career with Hiretop.",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "MongoDB",
+
         "TailwindCSS",
-        "Stripe",
+
         "Shadcn UI",
-        "Magic UI",
       ],
       links: [
         {
