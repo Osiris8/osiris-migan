@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Enthusiastic web developer, specializing in React, Next.js, Node.js, MongoDB and Supabase. Passionate about creating innovative and elegant solutions.",
   summary:
-    "I develop complex applications and update my knowledge on a daily basis. I like to think about how we can use digital to make businesses more successful. I train entrepreneurs, business ideas and learners in digital technologies. [See my skills](/#education), [my projects](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [contact me](/#hackathons).",
+    "I develop complex applications and update my knowledge on a daily basis. I like to think about how we can use digital to make businesses more successful. I train entrepreneurs, business ideas and learners in digital technologies. [See my skills](/#skills), [my projects](#projects), and [contact me](mailto:miganosiris8@gmail.com).",
   avatarUrl: "/me.jpg",
   skills: ["React", "Next.js", "Typescript", "Node.js", "MongoDB", "Supabase"],
   navbar: [
