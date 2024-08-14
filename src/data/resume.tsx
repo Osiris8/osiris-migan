@@ -156,12 +156,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://hiretop-iota.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/Osiris8/hiretop.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
