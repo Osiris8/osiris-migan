@@ -6,7 +6,7 @@ export const DATA = {
   initials: "OM",
   url: "https://osirismigan.com/",
   location: "Cotonou, Bénin",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://maps.app.goo.gl/dbgkpTB2WzGehaTw7",
   description:
     "Enthusiastic web developer, specializing in React, Next.js, Node.js, MongoDB and Supabase. Passionate about creating innovative and elegant solutions.",
   summary:
@@ -18,8 +18,8 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "miganosiris8@gmail.com",
+    tel: "+22961053668",
     social: {
       GitHub: {
         name: "GitHub",
