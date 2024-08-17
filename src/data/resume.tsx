@@ -169,5 +169,24 @@ export const DATA = {
       video:
         "https://files.edgestore.dev/vgd5z5zx1hzcip0s/publicFiles/_public/c1d5b7d1-3a49-4349-a371-1f990d348482.mp4",
     },
+    {
+      title: "Makosso Allavo",
+      href: "https://osirismigan.com/",
+      dates: "April 2024 - May 2024",
+      active: true,
+      description:
+        "Creation of makosso allavo's personal website, Design engineer in food technology.",
+      technologies: ["Next.js", "Typescript", "TailwindCSS", "Shadcn UI"],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.makossoallavo.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://files.edgestore.dev/vgd5z5zx1hzcip0s/publicFiles/_public/8dad81eb-93ec-4f8e-9d20-b7ffe97465de.mp4",
+    },
   ],
 } as const;
